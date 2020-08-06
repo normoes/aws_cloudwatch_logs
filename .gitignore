@@ -1,0 +1,11 @@
+*.json
+*.vim
+*.pyc
+*.txt
+!requirements.txt
+
+venv/
+__pycache__
+
+pip-wheel-metadata/
+*.egg-info/
